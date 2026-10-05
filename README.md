@@ -19,7 +19,13 @@ A simple Library Management System developed using Python.
 - Python
 - JSON
 - Visual Studio Code
+- Git
+- GitHub
+## Project Files
 
+- `library.py` - Main Python program
+- `books.json` - Stores book data permanently
+- `README.md` - Project documentation
 ## How to Run
 
 1. Open the project folder in Visual Studio Code.
